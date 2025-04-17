@@ -1,5 +1,5 @@
 # Source file path
-$sourceFile = "\\Iron-file1\it\Applications\Tekla-Powerfab\2024i\TeklaPowerFab2024iSP2.exe"
+$sourceFile = "\\Iron-file1\it\Applications\Tekla-Powerfab\2024i\TeklaPowerFab2025.exe"
 
 # Target directories
 $targetDirs = @(
